@@ -1,0 +1,68 @@
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\entity framework taak.exe
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\entity framework taak.deps.json
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\entity framework taak.runtimeconfig.json
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\entity framework taak.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\entity framework taak.pdb
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\SMUtils.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.csproj.AssemblyReference.cache
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.AssemblyInfoInputs.cache
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.AssemblyInfo.cs
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.csproj.CoreCompileInputs.cache
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.csproj.CopyComplete
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\refint\entity framework taak.dll
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.pdb
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\entity framework taak.genruntimeconfig.cache
+C:\Users\Keanu\source\repos\entity framework taak\entity framework taak\obj\Debug\net6.0\ref\entity framework taak.dll
